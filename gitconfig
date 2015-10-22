@@ -1,0 +1,5 @@
+[user]
+	name = Leonard Techel
+	email = git@barnslig.eu
+[push]
+	default = simple
