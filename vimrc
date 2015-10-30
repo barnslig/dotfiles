@@ -30,6 +30,7 @@ set autoindent
 set lazyredraw
 set cursorline
 set nowrap
+set mouse=a
 
 let g:airline_powerline_fonts = 1
 set laststatus=2
